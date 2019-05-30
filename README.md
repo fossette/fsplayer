@@ -27,6 +27,8 @@ Accepted keypad keys are:
 1. Download the source files and store them in a directory
 2. Go to that directory in a terminal window
 3. To built the executable file, type `make`
+4. To install the executable file, type `make install` as a superuser.  The Makefile will copy the executable file into the
+`/usr/bin` directory.  If you want it elsewhere, feel free to copy it by hand instead.
 
 ## Version history
 1.0 - 2019/05/29 - Initial release
