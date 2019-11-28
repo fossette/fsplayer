@@ -32,9 +32,10 @@ Accepted keypad keys are:
 
 ## Version history
 1.0 - 2019/05/29 - Initial release
+1.1 - 2019/11/27 - Win32 release
 
 ## Compatibility
-**fsplayer** has been tested under FreeBSD 11.2 using libX11 1.6.7 and qvwm 1.1.12_2015.  Should be easy to port because there are only X11 dependencies.
+**fsplayer** has been tested under FreeBSD 11.2 using libX11 1.6.7 and qvwm 1.1.12_2015.  Should be easy to port because there are only X11 dependencies.  **fsplayer** has also been built with C++ Builder 10.3 and tested under Windows 7.
 
 ## Donations
 Thanks for the support!  
