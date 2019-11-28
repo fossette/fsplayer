@@ -32,6 +32,7 @@ Accepted keypad keys are:
 
 ## Version history
 1.0 - 2019/05/29 - Initial release
+
 1.1 - 2019/11/27 - Win32 release
 
 ## Compatibility
